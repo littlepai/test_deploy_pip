@@ -12,9 +12,9 @@
 from setuptools import setup, find_packages
 
 setup(
-    name = "ufzhapi",
-    version = "0.1.1",
-    keywords = ("pip", "ufzhapi"),
+    name = "ufzh",
+    version = "1.0.0",
+    keywords = ("pip", "ufzh"),
     description = "深度学习实现知乎验证码识别",
     long_description = "深度学习实现知乎验证码识别",
     license = "MIT Licence",

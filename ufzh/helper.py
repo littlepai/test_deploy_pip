@@ -3,7 +3,7 @@
 import numpy as np
 import os
 import string
-from pai_image import ImageCaptcha
+from ufzh.pai_image import ImageCaptcha
 from random import choice
 from tqdm import tqdm
 
