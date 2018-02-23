@@ -1,7 +1,7 @@
 # coding: utf-8
 
 import tensorflow as tf
-import utils
+from ufzh import utils
 from tensorflow.python.training import moving_averages
 
 

@@ -10,8 +10,8 @@ import urllib.parse
 import webbrowser
 
 from io import BytesIO
-import utils
-import orcmodel
+from ufzh import utils
+from ufzh import orcmodel
 import tensorflow as tf
 from PIL import Image
 import numpy as np
